@@ -34,16 +34,16 @@ The resulting dashboard provides a structured view of churn drivers and customer
 ## Dashboard Pages
  ### 1. Customer Churn Overview
 Provides an overall view of the customer base, including churn indicators, customer demographics, services, charges, payment methods, contract types, and internet service distribution.
-![Customer Churn Overview](03_Customer Churn Overview.png)
+![Customer Churn Overview](03_Customer%20Churn%20Overview.png)
 
  ### 2. Customer Risk Analysis
 Provides detailed analysis of churn patterns across internet service, contract type, tenure, payment method, and monthly charges.
 Interactive filters allow users to analyze churn behavior across different customer segments.
-![Customer Risk Analysis](04_Customer Risk Analysis.png)
+![Customer Risk Analysis](04_Customer%20Customer%20Risk%20Analysis.png)
 
  ### 3. Churn Insights
 Summarizes the key findings identified from the customer churn analysis, highlighting patterns related to contract duration, tenure, internet service, payment method, and subscribed support services.
-![Churn Insights](05_Churn Insights.png)
+![Churn Insights](05_Churn%20Insights.png)
 
 ## Skills Demonstrated
 - Power BI Dashboard Development
