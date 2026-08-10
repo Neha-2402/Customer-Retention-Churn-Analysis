@@ -39,7 +39,7 @@ Provides an overall view of the customer base, including churn indicators, custo
  ### 2. Customer Risk Analysis
 Provides detailed analysis of churn patterns across internet service, contract type, tenure, payment method, and monthly charges.
 Interactive filters allow users to analyze churn behavior across different customer segments.
-![Customer Risk Analysis](04_Customer%20Customer%20Risk%20Analysis.png)
+![Customer Risk Analysis](04_Customer%20Risk%20Analysis.png)
 
  ### 3. Churn Insights
 Summarizes the key findings identified from the customer churn analysis, highlighting patterns related to contract duration, tenure, internet service, payment method, and subscribed support services.
